@@ -1,0 +1,15 @@
+{
+  "name": "com.phonegap.helloworld",
+  "version": "1.0.0",
+  "displayName": "regapp",
+  "cordova": {
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~7.0.0",
+    "cordova-ios": "~4.5.4"
+  }
+}
